@@ -1,0 +1,12 @@
+
+export const propertyRecommendationData = [
+    { id: 1, img: "https://cdn.pixabay.com/photo/2022/07/09/05/23/house-7310177_640.jpg", title: "USA's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 2, img: "https://cdn.pixabay.com/photo/2015/11/06/11/39/single-family-home-1026369_640.jpg", title: "Nepal's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for buy", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 3, img: "https://cdn.pixabay.com/photo/2016/08/16/03/50/exterior-1597098_640.jpg", title: "UK's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 4, img: "https://cdn.pixabay.com/photo/2019/09/15/14/22/fishermans-hut-4478427_640.jpg", title: "India's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 5, img: "https://cdn.pixabay.com/photo/2015/07/02/09/52/interior-design-828545_640.jpg", title: "Germany's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 6, img: "https://cdn.pixabay.com/photo/2013/11/01/19/31/rice-fields-204139_640.jpg", title: "Italy's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 7, img: "https://cdn.pixabay.com/photo/2022/07/09/05/23/house-7310177_640.jpg", title: "China's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+    { id: 8, img: "https://cdn.pixabay.com/photo/2022/07/09/05/23/house-7310177_640.jpg", title: "Australia's luxurious villa", totalPhotos: "3", totalVideos: "1", type: "for sale", location: "New York NY 10001 United States of America", area: "1150", totalBaths: "2", totalBeds: "3", price: "3,000,000" },
+];
+
