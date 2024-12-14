@@ -11,7 +11,7 @@ const Hero = () => {
 
             {/* Hero Carousel section */}
             <div className="w-full px-16 absolute top-2 left-[50%] translate-x-[-50%] z-20">
-                <div className="w-full h-[calc(100vh-12ch)] bg-[url('https://cdn.pixabay.com/photo/2022/10/08/17/39/jungle-7507490_1280.jpg')] bg-cover bg-no-repeat bg-center rounded-3xl shadow-2xl relative overflow-hidden">
+                <div className="w-full h-[calc(100vh-12ch)] bg-[url('https://cdn.pixabay.com/photo/2018/07/08/18/25/lake-geneva-3524431_1280.jpg')] bg-cover bg-no-repeat bg-top rounded-3xl shadow-2xl relative overflow-hidden">
                     {/* Background Overlay */}
                     <div className="absolute top-0 left-0 w-full h-full bg-black opacity-55 z-10" />
 
