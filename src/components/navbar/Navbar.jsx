@@ -10,7 +10,6 @@ const Navbar = () => {
                 Real<span className="text-neutral-300">Estate</span>
             </Link>
 
-
             {/* Nav Items and button section */}
             <nav className="flex items-center gap-12">
                 {/* Nav items */}
@@ -26,7 +25,7 @@ const Navbar = () => {
 
                 {/* Button */}
                 <button className="bg-neutral-50 text-neutral-800 text-base font-normal px-4 py-1.5 rounded-full">
-                    Get Started
+                    List Your Property
                 </button>
             </nav>
 
